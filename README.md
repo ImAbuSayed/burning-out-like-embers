@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-out-like-embers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Burning Out Like Embers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-out-like-embers/) |
+| **Get License** | [Obtain a Music License for Burning Out Like Embers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-out-like-embers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat radiating from your skin
+> We are sitting in the dark where the shadows begin
+> Your eyes are pulling me into the night
+> Burning out like embers in the pale moonlight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

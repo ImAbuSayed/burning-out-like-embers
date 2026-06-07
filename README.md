@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/burning-out-like-embers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Burning Out Like Embers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-out-like-embers/) |
+| **Get License** | [Get a Licensing Quote for Burning Out Like Embers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/burning-out-like-embers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2d72e0ca74d4cb62d1291e62dabbd9b18d6a5b4c02d79b495b741c8a331b0d55` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

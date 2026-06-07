@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Burning Out Like Embers
+
+This log tracks the cryptographic history and versioning for the song **Burning Out Like Embers** (burning-out-like-embers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T13:19:01.471583 | `v1` | `2d72e0ca74d4cb62d1291e62dabbd9b18d6a5b4c02d79b495b741c8a331b0d55` | `16b19fa066d5ba08c98ee2aef1bd051f9996ecbd06162f4f12ddbe771f6bda25` | `2026-06-07_burning-out-like-embers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
